@@ -26,6 +26,13 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
+<<<<<<< HEAD
+=======
+[C:/Users/jp100/Desktop/USMP/6 CICLO/Programacion/Practica01/Views/Operacion/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3BlcmFjaW9uXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+>>>>>>> fed702c37376ec8f3f692bfac33234450e463f87
 [C:/Users/jp100/Desktop/USMP/6 CICLO/Programacion/Practica01/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
